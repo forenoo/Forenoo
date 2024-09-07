@@ -10,7 +10,7 @@
 
 ---
 
-> [!FUNFACT]
+> [!NOTE]
 >
 > - I've discovered that I become remarkably more productive when I listen to my favorite song.
 
