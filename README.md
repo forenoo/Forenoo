@@ -8,11 +8,9 @@
 
 **Only human (Develop/Heal/Sleep)**
 
----
+[![wakatime](https://wakatime.com/badge/user/50dc6f4d-c057-4eeb-a46a-3c164b08ae4d.svg)](https://wakatime.com/@50dc6f4d-c057-4eeb-a46a-3c164b08ae4d)
 
-> [!NOTE]
->
-> - I've discovered that I become remarkably more productive when I listen to my favorite song.
+---
 
 ## ⚙️ Technologies and tools that I have worked with
 
@@ -72,3 +70,5 @@
         </td>
     </tr>
 </table>
+
+<a href="https://discord.com/users/827671915253989387"><img src="https://lanyard.cnrad.dev/api/827671915253989387?borderRadius=20px&bg=00000000" alt="Discord" /></a> 
