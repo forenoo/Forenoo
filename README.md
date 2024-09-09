@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="200px" src="https://i.pinimg.com/originals/2e/b1/94/2eb1940c65787496ec5a91b8e4dc1f20.gif">
 
-# 🤩 Who Am I? 
+# 🤩 Who Am I? ~
 
 - **`Name: Foreno Faisal Fahri`**
 - **`Role: Frontend Engineer`**
