@@ -12,7 +12,7 @@
 
 ---
 
-## ⚙️ Technologies and tools that I have worked with
+## ⚙️ Technology and tools that I have worked with
 
 <table>
     <tr>
