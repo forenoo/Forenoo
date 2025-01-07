@@ -42,7 +42,7 @@
         </td>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="icon" />
-            <br>Next Js
+            <br>Laravel
         </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
         </td>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="icon" />
-            <br>MongoDB
+            <br>PHP
         </td>
     </tr>
 </table>
