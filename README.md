@@ -40,6 +40,10 @@
             <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="icon" />
             <br>Next Js
         </td>
+        <td align="center" width="96" height="96">
+            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="icon" />
+            <br>Next Js
+        </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
@@ -66,6 +70,10 @@
         </td>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="icon" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="96" height="96">
+            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="icon" />
             <br>MongoDB
         </td>
     </tr>
