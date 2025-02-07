@@ -61,8 +61,8 @@
             <br>Github
         </td>
         <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
-            <br>Tailwind
+            <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="icon" />
+            <br>Express
         </td>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="icon" />
