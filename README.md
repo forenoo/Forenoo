@@ -3,7 +3,7 @@
 # 😎 Who Am I? ~
 
 - **`Name: Foreno Faisal Fahri`**
-- **`Role: Frontend Engineer`**
+- **`Role: Frontend Engineer`** 
 - **`Experience: 1+ Years as Frontend Engineers`**
 
 **Only human (Develop/Heal/Sleep)**
